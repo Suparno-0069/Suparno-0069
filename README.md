@@ -1,6 +1,6 @@
 # 👋 Hi There 🙃
 <img src="https://scontent.frdp4-1.fna.fbcdn.net/v/t1.6435-9/80731280_192034401972347_3410033836354961408_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ANHIzTHKMPAAX9Mx-E6&_nc_ht=scontent.frdp4-1.fna&oh=00_AT_8phmHc3vU3a9BupGyS4AXqCZ1PxFomp1dCnlGm6NbjQ&oe=629A5360" height="250"><br>
-My name is Suparno Chakraborty. I am a programmer. And 
+My name is Suparno Chakraborty. I am a programmer. And<br> 
 I love to watch Anime, MCU movies and other super-hero and super natural things.
 
 
