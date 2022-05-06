@@ -1,6 +1,6 @@
 
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Suparno</h1>
-<img src="https://github.com/Suparno-0069/Suparno-0069/blob/main/Suparno-Profile-Picture.jpg" height="250"><br>
+<img src="https://github.com/Suparno-0069/Suparno-0069/blob/main/Suparno-Profile-Picture.jpg" height="525"><br>
 I am a programmer. And <br>I love to watching Anime, MCU movies and other super-hero movies and super natural things.
 
 
