@@ -6,7 +6,7 @@ I am a programmer. And <br>I love to watching Anime, MCU movies and other super-
 
 ## My Skills:
 - 💻 HTML5, CSS:  <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/85">  
-- 💻 JavaScript:  <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/55">
+- 💻 JavaScript:  <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/45">
 - 💻 Java: <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/75">
 - 💻 C/C++: <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/80">
 - 💻 Python: <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/30">
