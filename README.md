@@ -1,16 +1,16 @@
-# 👋 Hi There 🙃
+
+<h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Suparno</h1>
 <img src="https://scontent.frdp4-1.fna.fbcdn.net/v/t1.6435-9/80731280_192034401972347_3410033836354961408_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ANHIzTHKMPAAX9Mx-E6&_nc_ht=scontent.frdp4-1.fna&oh=00_AT_8phmHc3vU3a9BupGyS4AXqCZ1PxFomp1dCnlGm6NbjQ&oe=629A5360" height="250"><br>
-My name is Suparno Chakraborty. I am a programmer. And<br> 
-I love to watch Anime, MCU movies and other super-hero and super natural things.
+I am a programmer. And <br>I love to watching Anime, MCU movies and other super-hero movies and super natural things.
 
 
 ## My Skills:
-- 💻 HTML5, CSS
-- 💻 JavaScript
-- 💻 Java
-- 💻 C/C++
-- 💻 Python
-- 💻 PHP
+- 💻 HTML5, CSS:  <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/85">  
+- 💻 JavaScript:  <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/55">
+- 💻 Java: <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/75">
+- 💻 C/C++: <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/80">
+- 💻 Python: <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/30">
+- 💻 PHP: <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/40">
 
 
 ### About Me:
@@ -21,18 +21,6 @@ I love to watch Anime, MCU movies and other super-hero and super natural things.
 
 
 ## My Social Media Links:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Suparno-0069 "GitHub") [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/suparno.chakraborty.927 "FaceBook") 
-<!--
-**Suparno-0069/Suparno-0069** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://img.icons8.com/fluent/48/000000/github.png' alt='github' height='40'>](https://github.com/Suparno-0069 "GitHub") [<img src='https://img.icons8.com/color/48/000000/facebook-new.png' alt='facebook' height='40'>](https://www.facebook.com/suparno.chakraborty.927 "FaceBook") [<img src='https://img.icons8.com/color/48/000000/instagram-new.png' alt='facebook' height='40'>](https://www.instagram.com/i_ironman_love_you_3000/ "Instagram") 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
