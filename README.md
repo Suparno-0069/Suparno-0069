@@ -14,8 +14,7 @@ I am a programmer. And <br>I love watching Anime, MCU movies and other super-her
 
 
 ### About Me:
-- 📖 I am currently studing **BCA**💻 at _St. Xavier's College, Burdwan_.
-- 🏢 I am currently working on **"[Urban Chapters](https://github.com/Suparno-0069/Project-Sem-VI "My final Year Project")"**
+<!-- - 🏢 I am currently working on ... -->
 - 😃 I want to contribute to *Open-Source Projects*.
 - 📫➡ suparnochakraborty69@gmail.com
 
