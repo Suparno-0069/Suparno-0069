@@ -11,8 +11,11 @@
 <br>
 
 ### About Me:
-<!-- - 🏢 I am currently working on ... -->
-- 😃 I am lokking forward to contribute more to *Open-Source Projects*.
+- 🏢 I am currently working on **[Celery & Wings](https://github.com/Animesh-456/Restaurant-Application "Based on Node.js")**
+-  I am lokking forward to contribute more to *Open-Source Projects*.
+- 🎇 Enthusiast Debugger
+- ✨ Love watching Anime
+- 🤩 Marvel Fan
 - 📫➡ suparnochakraborty69@gmail.com
 <!-- - 🎞 My Resume [xD](https://example.com "resume") -->
 
