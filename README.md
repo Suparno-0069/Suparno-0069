@@ -6,7 +6,7 @@
 <br>
 
 ## About Me:
-- 🏢 I am currently working on **[Celery & Wings][current]**
+<!-- - 🏢 I am currently working on **[Celery & Wings][current]** -->
 - 😃 I am lokking forward to contribute more to *Open-Source Projects*.
 - 🎇 Enthusiast Debugger
 - ✨ Love watching Anime
