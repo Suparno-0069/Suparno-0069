@@ -36,7 +36,7 @@
 ---
 
 ## My Social Media Links:
-[![GitHub][github-icon]][github] [![Instagram][insta-icon]][insta] [![FaceBook][fb-icon]][fb]
+[![GitHub][github-icon]][github] [![Instagram][insta-icon]][insta] [![FaceBook][fb-icon]][fb] [![LinkedIn][li-icon]][Li]
 
 
 <!-- link definitions -->
@@ -66,14 +66,16 @@
 [github-icon]: https://img.icons8.com/fluent/48/000000/github.png
 [insta-icon]: https://img.icons8.com/color/48/000000/instagram-new.png
 [fb-icon]: https://img.icons8.com/color/48/000000/facebook-new.png
+[li-icon]: https://img.icons8.com/color/48/000000/linkedin.png
 
 <!-- github stats -->
-[graph]: https://activity-graph.herokuapp.com/graph?username=Suparno-0069&theme=redical
+[graph]: https://github-readme-activity-graph.cyclic.app/graph?username=Suparno-0069&theme=redical
 [streak]: https://github-readme-streak-stats.herokuapp.com/?user=Suparno-0069&theme=radical
-[stats]: https://github-readme-stats.vercel.app/api?username=Suparno-0069&show_icons=true&theme=radical
-[langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=Suparno-0069&langs_count=69&theme=radical&layout=compact
+[stats]: https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Suparno-0069&show_icons=true&theme=radical
+[langs]: https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Suparno-0069&langs_count=69&theme=radical&layout=compact
 
 <!-- scoials -->
 [github]: https://github.com/Suparno-0069
 [insta]: https://www.instagram.com/i_ironman_love_you_3000/
 [fb]: https://www.facebook.com/suparno.chakraborty.927
+[li]: https://www.linkedin.com/in/suparna-chakraborty-9a7208258/
