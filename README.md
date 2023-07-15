@@ -18,7 +18,7 @@
 ![html][html-icon] ![css][css-icon] ![javascript][js-icon] ![java][java-icon] ![c][c-icon] ![c++][cpp-icon] ![python][python-icon] ![php][php-icon]
 
 ![visual-studio][vs-icon] ![visual-studio-code][vscode-icon] ![notepad++][npp-icon] ![nodejs][node-icon] ![bootstrap][bootstrap-icon]
-
+<!--
 ### Operating Systems:
 ![windows-10][win10-icon] ![linux][linux-icon]
 
@@ -28,7 +28,7 @@
 ![Activity Graph][graph]
 
 ---
-
+-->
 ## Github Stats:
 ![Suparno's Streak][streak] ![Suparno's GitHub stats][stats]
 ![Top Langs][langs]
