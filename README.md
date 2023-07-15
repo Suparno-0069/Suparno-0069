@@ -1,10 +1,10 @@
 
 <div align="center">
-<h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Suparno</h1>
+<h1>Hi, 👋 I'm Suparno</h1>
 <h3>I am a programmer</h3>
 </div>
 <br>
-
+<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, -->
 ## About Me:
 <!-- - 🏢 I am currently working on **[Celery & Wings][current]** -->
 - 😃 I am lokking forward to contribute more to *Open-Source Projects*.
