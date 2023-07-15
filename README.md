@@ -20,9 +20,14 @@
 
 ![visual-studio][vs-icon] ![visual-studio-code][vscode-icon] ![notepad++][npp-icon] ![nodejs][node-icon] ![bootstrap][bootstrap-icon]
  
+
+<div align="center">
+
 ## Github Stats:
-![Suparno's Streak][streak] ![Suparno's GitHub stats][stats]
-![Top Langs][langs]
+![Suparno's Streak][streak] 
+</div>
+
+![Suparno's GitHub stats][stats] ![Top Langs][langs]
 
 ---
 
