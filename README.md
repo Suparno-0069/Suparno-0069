@@ -20,10 +20,10 @@
 
 ![visual-studio][vs-icon] ![visual-studio-code][vscode-icon] ![notepad++][npp-icon] ![nodejs][node-icon] ![bootstrap][bootstrap-icon]
  
+ ## Github Stats:
 
 <div align="center">
 
-## Github Stats:
 ![Suparno's Streak][streak] 
 </div>
 
