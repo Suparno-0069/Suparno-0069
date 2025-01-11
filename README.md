@@ -72,6 +72,6 @@
 
 <!-- scoials -->
 [github]: https://github.com/Suparno-0069
-[insta]: https://www.instagram.com/i_ironman_love_you_3000/
+[insta]: https://www.instagram.com/suparno_0069/
 [fb]: https://www.facebook.com/suparno.chakraborty.927
 [li]: https://www.linkedin.com/in/suparna-chakraborty1015/
